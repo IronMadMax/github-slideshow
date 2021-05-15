@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+If it's hard for you, then you are going uphill.  If it is easy for you, then you are flying into the abyss.
